@@ -11,9 +11,9 @@
 
 - 📫 Mail me at ➡️ **ekoteswar.2k@gmail.com**
 
-- ⚡ Fun fact **I love to play chess! ♟️**
+- ⚡ Fun fact : **I love to play chess! ♟️**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me at</h3>
 <p align="left">
 <a href="https://linkedin.com/in/koteswar-e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koteswar-e" height="30" width="40" /></a>
 <a href="https://kaggle.com/koteswarenamadni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="koteswarenamadni" height="30" width="40" /></a>
