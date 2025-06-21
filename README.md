@@ -5,11 +5,11 @@
 
 - 🔭 ETL Pipeline Optimization **Data Tunnel**
 
-- 👨‍💻 Here's my Portfolio [https://koteswar-e.github.io/koteswar.github.io/](https://koteswar-e.github.io/koteswar.github.io/)
+- 👨‍💻 Here's my Portfolio ➡️ [https://koteswar-e.github.io/koteswar.github.io/](https://koteswar-e.github.io/koteswar.github.io/)
 
 - 💬 Ask me about **ETL Pipelines, Databases, AWS**
 
-- 📫 How to reach me **ekoteswar.2k@gmail.com**
+- 📫 Mail me at ➡️ **ekoteswar.2k@gmail.com**
 
 - ⚡ Fun fact **I love to play chess! ♟️**
 
