@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koteswar-e&label=Profile%20views&color=0e75b6&style=flat" alt="koteswar-e" /> </p>
 
-- 🔭 ETL Pipeline Optimization **Data Tunnel**
+- 🔭 ETL Pipeline Optimization  => **Data Tunnel**
 
 - 👨‍💻 Here's my Portfolio ➡️ [https://koteswar-e.github.io/koteswar.github.io/](https://koteswar-e.github.io/koteswar.github.io/)
 
