@@ -7,6 +7,8 @@
 
 - 👨‍💻 Here's my Portfolio ➡️ [https://koteswar-e.github.io/koteswar.github.io/](https://koteswar-e.github.io/koteswar.github.io/)
 
+- SELF -- [Simple portfolio](https://www.self.so/koteswar-enamadni)
+
 - 💬 Ask me about **ETL Pipelines, Databases, AWS**
 
 - 📫 Mail me at ➡️ **ekoteswar.2k@gmail.com**
