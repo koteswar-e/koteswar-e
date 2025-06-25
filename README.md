@@ -5,9 +5,9 @@
 
 - 🔭 ETL Pipeline Optimization  => **Data Tunnel**
 
-- 👨‍💻 Here's my Portfolio ➡️ [https://koteswar-e.github.io/koteswar.github.io/](https://koteswar-e.github.io/koteswar.github.io/)
+- 👨‍💻 Here's my Portfolio ➡️ [Open IT!!](https://koteswar-e.github.io/koteswar.github.io/)
 
-- SELF -- [Simple portfolio](https://www.self.so/koteswar-enamadni)
+- SELF => [Simple portfolio](https://www.self.so/koteswar-enamadni)
 
 - 💬 Ask me about **ETL Pipelines, Databases, AWS**
 
