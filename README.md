@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koteswar-e&show_icons=true&locale=en" alt="koteswar-e" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koteswar-e&" alt="koteswar-e" /></p>
