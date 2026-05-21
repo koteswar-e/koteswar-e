@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ETL Pipelines, Databases, AWS**
 
-- 📫 Mail me at ➡️ **ekoteswar.2k@gmail.com**
+- 📫 Mail me at ➡️ **koteswar2k@gmail.com**
 
 - ⚡ Fun fact : **I love to play chess! ♟️**
 
